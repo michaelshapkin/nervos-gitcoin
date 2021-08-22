@@ -8,7 +8,8 @@ A screenshot of the accounts you created (account list) in ckb-cli.
 A link to the Layer 1 address you funded on the Testnet Explorer:
 https://explorer.nervos.org/aggron/address/ckt1qyqta8lp9j5za7vympry3dlr87lttge2cwdsnnfs90
 
-A screenshot of the console output immediately after you have successfully submitted a CKByte deposit to your Tron account on Layer 2.
+<img width="902" alt="Deposit" src="https://user-images.githubusercontent.com/44841666/130360360-ea33f8ef-334a-4aad-a5bd-a244570e0265.png">
+
 A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2.
 The transaction hash of the "Contract call" from the console output (in text format).
 The contract address that you called (in text format).
